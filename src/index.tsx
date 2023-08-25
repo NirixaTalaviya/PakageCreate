@@ -7,3 +7,4 @@ const index = () => {
       <Text>Hello World</Text>
     </View>
   )
+export default index
